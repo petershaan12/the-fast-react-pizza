@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/petershaan12/the-wild-oasis/main/public/screenshoot.png)
+![App Screenshot](https://raw.githubusercontent.com/petershaan12/the-fast-react-pizza/main/public/screenshoot.png)
 
 ## Run Locally
 
